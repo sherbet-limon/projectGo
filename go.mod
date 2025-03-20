@@ -1,2 +1,2 @@
-module https://github.com/sherbet-limon/projectGo
+module projectGo
 go 1.22
